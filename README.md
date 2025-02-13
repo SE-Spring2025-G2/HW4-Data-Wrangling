@@ -1,7 +1,7 @@
 # HW4-Data-Wrangling
 Tutorial on useful scripting commands to facilitate data wrangling.
 
-[![GitHub](https://img.shields.io/badge/github-%231210.svg?style=for-the-badge&logo=github)](https://github.com/orgs/SE-Spring2025-G2/repositories)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/orgs/SE-Spring2025-G2/repositories)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121?style=flat&logo=gnu-bash&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](/LICENSE)
 [![DOI](https://zenodo.org/badge/931263483.svg)](https://doi.org/10.5281/zenodo.14863060)
