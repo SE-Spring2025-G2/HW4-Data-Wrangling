@@ -1,11 +1,12 @@
 # HW4-Data-Wrangling
-Tutorial on useful shell commands to facilitate data wrangling.
+Tutorial on useful scripting commands to facilitate data wrangling.
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/orgs/SE-Spring2025-G2/repositories)
+[![GitHub](https://img.shields.io/badge/github-%231210.svg?style=for-the-badge&logo=github)](https://github.com/orgs/SE-Spring2025-G2/repositories)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121?style=flat&logo=gnu-bash&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](/LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14721778.svg)](https://doi.org/10.5281/zenodo.14721778)
-![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
-
+[![DOI](https://zenodo.org/badge/931263483.svg)](https://doi.org/10.5281/zenodo.14863060)
+[![Github Repo size in bytes](https://img.shields.io/github/languages/code-size/SE-Spring2025-G2/HW4-Data-Wrangling)](https://github.com/SE-Spring2025-G2/HW4-Data-Wrangling)
+[![Join the Discord Server](https://img.shields.io/badge/Join%20the%20Discord%20Server-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/auXqC4gj)
 ## Table of Contents
 
 - [Project Structure](#project-directory-structure)
@@ -78,15 +79,14 @@ We welcome contributions to this repository. Join the [**Discord Chat Channel**]
 4. Commit and push your changes.
 5. Submit a pull request.
 
----
+Feel free to reach out to us on [email](mailto:agala2@ncsu.edu) or raise an [issue](https://github.com/SE-Spring2025-G2/HW4-Data-Wrangling/issues) in the repository. 
+
 
 ## Authors
 
 - **Ayush Phatak** - NC State University  
 - **Keyur Gondhalekar** - NC State University  
 - **Ayush Gala** - NC State University  
-
----
 
 ## License
 
